@@ -5,6 +5,13 @@
     height: 60px;
 }
 
+.general {
+    border-radius: 40px;
+    background-color: rgb(106, 115, 202);
+    padding: 0 45px;
+    height: 320px;
+}
+
 .menu {
     display: flex;
     list-style-type: none;
