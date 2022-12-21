@@ -17,9 +17,9 @@
 }
 
 .section_dog {
-    height: 450px;
+    height: 500px;
     background-color: #29C3BE;
-    background-image: url("../img/graf1.png");
+    background-image: url("../img/BG-dog.jpg");
     background-repeat: no-repeat;
     background-position: center;
 }
