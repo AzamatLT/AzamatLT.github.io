@@ -1,6 +1,6 @@
-# MlAzamat.github.io
+# AzamatLT.github.io
 Hello World
 #
-https://mlazamat.github.io/
+https://azamatlt.github.io/
 #
 LT-QA
